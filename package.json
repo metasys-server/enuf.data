@@ -1,0 +1,25 @@
+{
+  "name": "@metasys-server/enuf.data",
+  "version": "8.0.0-2898",
+  "description": "Data sets for enuf",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metasys-server/enuf.data.git"
+  },
+  "keywords": [
+    "metasys",
+    "enuf",
+    "enumerations",
+    "sets"
+  ],
+  "author": "Michael Welch",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/metasys-server/enuf.data/issues"
+  },
+  "homepage": "https://github.com/metasys-server/enuf.data#readme",
+  "dependencies": {},
+  "peerDependencies": {
+
+  }
+}
